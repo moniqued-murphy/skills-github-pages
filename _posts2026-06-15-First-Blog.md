@@ -1,1 +1,4 @@
-Welcome to the first draft of my blog! 
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
